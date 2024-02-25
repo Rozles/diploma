@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Visual Studio Code settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Local folders for images
+depth_maps/
+depth_maps_100/
+slike/
+slo/
+
+# large files
+ssim_distance_matrix.npy
+eucled_distance_matrix.npy
